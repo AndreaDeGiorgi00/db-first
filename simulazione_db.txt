@@ -1,0 +1,4 @@
+targa      |  nome    | marca   |anno_di_uscita|cavalli       | kilometri | prezzo_acquisto | prezzo_di_vendita | è_presente_in_concessionario | 
+char(7)    | char     | char    |small         |number medium | bigint    | int             |int                |default(no)
+NOT NULL   | NOT NULL | NOT NULL|NOT NULLL     |    NULL      |   NOT NULL| NOT NULL        |NOT NULL           |NULL
+primary_key|
